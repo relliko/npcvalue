@@ -15,7 +15,7 @@
 --]]
 
 addon.name    = 'npcvalue';
-addon.author  = 'Relli';
+addon.author  = 'relli';
 addon.version = '0.2';
 addon.desc    = 'Shows what NPC shops pay for the item under your cursor, and for the treasure pool.';
 addon.link    = 'https://github.com/relliko/npcvalue';
